@@ -1,6 +1,6 @@
 # ML Kits
 
-Starter projects / algorithms for learning about Machine Learning w/ TensorFlowJS.
+Starter projects / algorithms for practicing Machine Learning w/ TensorFlowJS.
 
 ## Downloading
 
