@@ -1,6 +1,6 @@
 # ML Kits
 
-Starter projects for learning about Machine Learning.
+Starter projects / algorithms for practicing Machine Learning w/ TensorFlowJS.
 
 ## Downloading
 
@@ -17,5 +17,5 @@ Once downloaded extract the zip file to your local computer.
 To download this project using git, run the following command at your terminal:
 
 ```
-git clone https://github.com/StephenGrider/MLKits.git
+git clone https://github.com/saams4u/tensorflowjs-boilerplate.git
 ```
