@@ -1,6 +1,6 @@
 require('@tensorflow/tfjs-node');
 
-const f = require('@tensorflow/tfjs');
+const tf = require('@tensorflow/tfjs');
 const loadCSV = require('../load-csv');
 const SoftmaxRegression = require('./softmax-regression');
 const plot = require('node-remote-plot');
